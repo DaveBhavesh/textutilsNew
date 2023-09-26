@@ -51,7 +51,7 @@ function App() {
               showAlert={showAlert}
               heading="Enter your text"
               mode={mode}
-            />
+            />  
           }
         />
         <Route exact path="/about-us" element={<AboutUs mode={mode} />} />

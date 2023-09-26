@@ -8,7 +8,7 @@ export default function AboutUs(props) {
         <div classNameName="accordion" id="accordionExample" >
     <div className="accordion-item">
         <h2 className="accordion-header">
-        <button className="accordion-button my-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+        <button className="accordion-button my-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
            <strong> About Text Utils </strong>
         </button>
         </h2>
@@ -20,7 +20,7 @@ export default function AboutUs(props) {
     </div>
     <div className="accordion-item">
         <h2 className="accordion-header">
-        <button className="accordion-button collapsedv my-5" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+        <button className="accordion-button collapsedv my-3" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
             <strong> Easy & Free to Use </strong> 
         </button>
         </h2>
